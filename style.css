@@ -1,0 +1,20 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{background-color: aquamarine;
+display:flex;
+justify-content:space-between}
+.grid{display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.item{background-color: rgb(248, 196, 255);
+display:flex;
+justify-content: space-evenly;}
+.social{background-color: rgb(226, 43, 171);
+display:flex;
+justify-content: space-evenly;}
